@@ -1,4 +1,4 @@
-dot cvt
+dot-cvt
 =======
 
 Use a subset of YAML to write CVT annotations for songs.
