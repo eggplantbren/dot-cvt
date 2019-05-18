@@ -30,6 +30,7 @@ sound-colors:
 # Just some examples, not actually correct. Also need to figure out the
 # proper design. This is just a brain dump
 intervals:
-    - {"start": 0.0, "end": 5.0, "mode": "neutral"}
-    - {"start": 2.0, "end": 5.0, "sound-color": "dark"}
+    - {"start": 48.0, "end": 54.0,
+            "mode": "neutral",
+            "density": "high"}
 ...
